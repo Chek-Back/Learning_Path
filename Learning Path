@@ -1,2 +1,42 @@
 # Learning Path
-Este repositorio es mi laboratorio personal para dominar el hacking ético, con un enfoque principal en la evasión de defensas. Aquí encontrarás mis notas de estudio detalladas, mi ruta de aprendizaje estructurada por "cubos", y una colección creciente de scripts y exploits personalizados que voy desarrollando en mi camino.
+
+Este repositorio es mi laboratorio personal para dominar el hacking ético, con un enfoque principal en la evasión de defensas. 
+Aquí encontrarás mis notas de estudio detalladas, mi ruta de aprendizaje estructurada por "cubos", y una colección creciente de 
+scripts y exploits personalizados que voy desarrollando en mi camino.
+
+
+Mi Filosofía de Hacking: Rompiendo y Evadiendo Defensas desde las Raíces
+
+No me conformo con ser un "hacker genérico" que solo sabe usar herramientas prefabricadas. 
+Mi verdadera pasión y mi objetivo es entender las defensas desde dentro para poder eludirlas,
+manipularlas y, si es necesario, construir mis propias soluciones ofensivas.
+
+Esto significa que mi enfoque se dirige a las entrañas más oscuras de los sistemas: desde la 
+creación y manipulación de malware personalizado hasta la comprensión y el control de los 
+procesos en su nivel más bajo, incluso la capacidad de interactuar directamente con el 
+kernel. Para mí, la verdadera maestría reside en la invisibilidad y la persistencia, en la habilidad 
+de operar sin ser detectado y de mantener el control en los entornos más protegidos.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Mi Método de Aprendizaje: Los "Cubos" (aparte de la universidad).
+
+Para lograr esta especialización de alto nivel, he conceptualizado un sistema de aprendizaje
+basado en "cubos" o "bloques". Este método me permite segmentar y digerir la vasta cantidad 
+de información de una manera intuitiva, precisa y eficaz. Cada "cubo" representa una etapa 
+crucial en mi desarrollo, un hito que debo conquistar antes de pasar al siguiente nivel.
+
+Dentro de cada cubo, la información se organiza cuidadosamente en tres componentes clave:
+
+1. Skills (Habilidades): Son los conocimientos teóricos y las capacidades técnicas que debo
+   adquirir. Aquí desglosaré cada concepto hasta el más mínimo detalle, explicando el "por 
+   qué" y el "cómo", a menudo con ejemplos y analogías para una comprensión absoluta.
+
+2. Targets (Retos): Son las mini-metas prácticas. Pequeños desafíos, laboratorios o tareas
+   que me obligan a aplicar directamente lo que aprendí en las Skills. Son mi campo de 
+   entrenamiento personal.
+
+3. Goals (Metas Finales): Son los objetivos mayores, los "premios" por haber completado un 
+   cubo. Pueden ser la obtención de una certificación reconocida, la capacidad de realizar una 
+   tarea compleja de evasión, o incluso lograr una recompensa en un programa de Bug Bounty.
+   
