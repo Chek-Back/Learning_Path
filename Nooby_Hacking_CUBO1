@@ -30,4 +30,29 @@ En esta sección, desglosaré cada concepto fundamental, con ejemplos y analogí
  3. Demostrar Habilidad para Documentar Procesos de Pentesting Básicos
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Skill 1 (Linux)
+
+Indice: 
+
+ 1. Linux - El Alma del Hacking Ético
+ 2. Diferentes Distribuciones de Linux: Los "Sabores" del Sistema Operativo:
+ 3. Terminal y Shell: Interfaz con el sistema
+ 4. Estructura del Sistema de Archivos (FHS): El Mapa del Tesoro: 
+ 5. Tipos de Usuarios y Permisos (chmod, chown): ¿Quién Manda Aquí y Quién no? 
+ 6. Procesos y Servicios
+ 7. Gestión de Software (APT y DPKG)
+ 8. Manejo de Archivos y Texto
+ 9. Automatización con Cron Jobs
+ 10. Logs del sistema y análisis
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LINUX: 
+
+Mi investigación me llevó a los inicios de los años 90. En ese momento, el mundo de los sistemas operativos era un poco diferente.
+Por un lado,estaban los sistemas operativos comerciales, poderosos pero carísimos, como UNIX. Eran la elección para grandes empresas y universidades,
+pero estaban fuera del alcance de la mayoría. Por otro, estaban los sistemas más accesibles, como MS-DOS, que eran populares en las computadoras personales, 
+pero muy limitados en sus capacidades, especialmente para tareas complejas o para multiusuario/multitarea.
+
+
 
