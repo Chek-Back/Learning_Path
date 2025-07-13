@@ -9,13 +9,11 @@ En esta sección, desglosaré cada concepto fundamental, con ejemplos y analogí
  2. Virtualización y Configuración de Laboratorio
  3. Kali Linux y Fundamentos de Hacking/Pentesting
  4. Sistema operativo: Jerarquía del sistema
- 5. Estructura del Sistema de Archivos (FHS): El Mapa del Tesoro
- 6. Tipos de Usuarios y Permisos (chmod, chown): ¿Quién Manda Aquí y Quién no?
- 7. Bash Scripting (Básico)
- 8. Herramnientas inciales 
- 9. Fundamentos de Redes (Networking)
- 10. Conceptos Básicos de Seguridad de la Información
- 11. Documntacion
+ 5. Bash Scripting (Básico)
+ 6. Herramnientas inciales
+ 7. Fundamentos de Redes (Networking)
+ 8. Conceptos Básicos de Seguridad de la Información
+ 9. Documntacion
 
 * Targets (Retos y Mini-Metas)
 
