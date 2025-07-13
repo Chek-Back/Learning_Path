@@ -1,1 +1,24 @@
-#
+# Fundamentos Esenciales del Hacking Ético y Primeros Pasos Hacia la Evasión
+
+Indice 
+
+* Skills (Conocimientos y Habilidades a Adquirir)
+En esta sección, desglosaré cada concepto fundamental, con ejemplos y analogías.
+
+ 1. Linux - El Alma del Hacking Ético
+ 2. Virtualización y Configuración de Laboratorio
+ 3. Kernel: El Corazón del Sistema Operativo
+ 4. Estructura del Sistema de Archivos (FHS): El Mapa del Tesoro
+ 5. Tipos de Usuarios y Permisos (chmod, chown): ¿Quién Manda Aquí y Quién no?
+ 6. Bash Scripting (Básico)
+ 7. Kali Linux y Fundamentos de Hacking/Pentesting
+ 8. Fundamentos de Redes (Networking)
+ 9. Conceptos Básicos de Seguridad de la Información
+
+* Targets (Retos y Mini-Metas)
+
+ 1. Configurar el Laboratorio de Virtualización
+ 2. Dominar los Fundamentos de Linux, empezar a moverme en el sistema
+ 3. Comprender los Fundamentos de Redes con TryHackMe
+ 4. Mis Primeros Pasos en Hack The Box (HTB)
+ 5. Mi Primer Script Bash Útil
