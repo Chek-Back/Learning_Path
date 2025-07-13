@@ -1,0 +1,2 @@
+# Learning_Path
+Este repositorio es mi laboratorio personal para dominar el hacking ético, con un enfoque principal en la evasión de defensas. Aquí encontrarás mis notas de estudio detalladas, mi ruta de aprendizaje estructurada por "cubos", y una colección creciente de scripts y exploits personalizados que voy desarrollando en mi camino.
