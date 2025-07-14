@@ -54,5 +54,16 @@ Por un lado,estaban los sistemas operativos comerciales, poderosos pero carísim
 pero estaban fuera del alcance de la mayoría. Por otro, estaban los sistemas más accesibles, como MS-DOS, que eran populares en las computadoras personales, 
 pero muy limitados en sus capacidades, especialmente para tareas complejas o para multiusuario/multitarea.
 
+Ahí es donde entra un estudiante finlandés de informática llamado Linus Torvalds. En 1991, Linus no estaba del todo contento con el sistema UNIX-like que usaba en la universidad, llamado MINIX. 
+MINIX era un sistema operativo pequeño, educativo y simple, creado por Andrew S. Tanenbaum. Era genial para aprender, pero Linus sentía que tenía muchas limitaciones y, lo que es más importante,
+no era completamente abierto, lo que impedía la experimentación y la mejora libre.
 
+Entonces, ¿qué hizo Linus? En lugar de quejarse, decidió "manos a la obra". ¡Me parece una mentalidad muy de hacker! Se propuso escribir su propio núcleo o "kernel" desde cero. 
+Imagino que Linus pensó algo así: “Si lo que necesito no existe o no me dan la libertad para modificarlo, ¡pues lo construyo yo mismo!”
+
+Este kernel, al que Linus inicialmente llamó "Freax" (una mezcla de "free", "freak" y "Unix"), pero que su administrador de servidor terminó llamando "Linux" (una combinación de Linus y Unix), 
+fue liberado al público en agosto de 1991. Este fue un momento crucial.
+
+Pero el verdadero "golpe maestro", el que cambió el juego y le dio a Linux su carácter único, fue la decisión de Linus de licenciar su kernel bajo la Licencia Pública General (GPL) de GNU. 
+¿Por qué esto es tan importante y qué significa la GPL?
 
